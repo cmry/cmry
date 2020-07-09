@@ -4,8 +4,8 @@ I’m a 👨🏼‍🏫 at the Department of [🧠 and 🤖](https://www.csai.nl
 
 ### ⚗️ Research 
 
-I'm interested in the effect of intelligent systems (🧠 + 🤖) on our lives. Systems that uncover our personal information 🕵️, monitor and change our behavior 👁️, subtly restrict our exposure to information 🗨️, and treat us unfairly ✊. My current research focuses on the dual-use of computational stylometry ✍️; a field that aims to infer information from writing for good, proving harmfully invasive at the same time. My dissertation works toward developing open-source tools to better understand, and defend against such techniques invading one's privacy 🛡️.
+I'm interested in the effect of intelligent systems (🧠 + 🤖) on our lives. Systems that uncover our personal information 🕵️, monitor and change our behavior 👁️, subtly restrict our exposure to information 🗨️, and treat us unfairly ✊. My current research focuses on the dual-use of computational stylometry ✍️; a field that aims to infer information from writing for good, proving harmfully invasive at the same time. My dissertation develops open-source tools to better understand, and defend against such techniques invading one's privacy 🛡️.
 
 ### 📫 Contact
 
-Check [my website](https://cmry.github.io/) 🌍 or [Twitter](https://twitter.com/_cmry) 🐦.
+See info in the dooblidoo ⬅️.
