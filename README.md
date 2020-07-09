@@ -1,6 +1,6 @@
 ### 👋 Hi
 
-I’m a 👨🏼‍🏫 at Tilburg University, as well as a joint PhD 🎓 doing research for both the Department of [🧠 and 🤖](https://www.csai.nl) at Tilburg and CLiPS at the University of Antwerp under the supervision of [@gchrupala](https://github.com/gchrupala), [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Eric Postma](https://ericpostma.nl/).
+I’m a 👨🏼‍🏫 at the Department of [🧠 and 🤖](https://www.csai.nl) at Tilburg University, as well as a joint PhD 🎓 doing research [@tcsai](https://github.com/tcsai) and [@clips](https://github.com/clips/) under the supervision of [@gchrupala](https://github.com/gchrupala), [Walter Daelemans](https://www.clips.uantwerpen.be/~walter/) and [Eric Postma](https://ericpostma.nl/).
 
 ### ⚗️ Research 
 
