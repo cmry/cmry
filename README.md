@@ -8,4 +8,4 @@ I'm interested in the effect of intelligent systems (🧠 + 🤖) on our lives. 
 
 ### 📫 Contact
 
-Check [my website](https://cmry.github.io/) 🌍 or [Twitter](https://github.com/cmry) 🐦.
+Check [my website](https://cmry.github.io/) 🌍 or [Twitter](https://twitter.com/_cmry) 🐦.
