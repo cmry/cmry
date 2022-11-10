@@ -8,4 +8,4 @@ I'm interested in the effect of intelligent systems on our lives. Systems that u
 
 ### 📫 Contact
 
-See info in the dooblidoo ⬅️.
+See info in the dooblidoo ⬅️. I'm also on <a rel="me" href="https://mastodon.social/@cmry">Mastodon</a>.
