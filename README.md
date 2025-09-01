@@ -1,6 +1,6 @@
 ### 👋 Hi
 
-I’m an Assistant Professor at the Department of [Cognitive Science & Artificial Intelligence](https://www.csai.nl) at Tilburg University.
+I’m an Assistant Professor at the Department of Intelligent Systems, part of the [Center for Cognitive Science & Artificial Intelligence](https://www.csai.nl), at Tilburg University.
 
 ### ⚗️ Research 
 
